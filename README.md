@@ -8,7 +8,7 @@ Inspire/Based from [furyutei/TwFleetCapture](https://github.com/furyutei/TwFleet
 
 - NodeJS (Tested with v15.4.0)
 - NPM (Tested with v7.0.15)
-- [packages.json](packages.json): `typescript`, `puppeteer`
+- [package.json](package.json): `typescript`, `puppeteer`
 
 ## Installation
 
