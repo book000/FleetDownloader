@@ -13,7 +13,7 @@ Inspire/Based from [furyutei/TwFleetCapture](https://github.com/furyutei/TwFleet
 ## Installation
 
 1. Clone from GitHub repository: `git clone https://github.com/book000/FleetDownloader.git`
-2. Install the dependency package from `packages.json`: `npm i`
+2. Install the dependency package from `package.json`: `npm i`
 3. Compile typescript files: `npm run build` or `tsc`
 
 ## Configuration
